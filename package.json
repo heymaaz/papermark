@@ -18,7 +18,7 @@
     "stripe:webhook": "pkgx stripe listen --forward-to localhost:3000/api/stripe/webhook",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,mdx}\"",
     "dev:prisma": "npx prisma generate && npx prisma migrate deploy"
-    
+
   },
   "dependencies": {
     "@aws-sdk/client-lambda": "^3.682.0",
@@ -113,7 +113,7 @@
     "react-hotkeys-hook": "^4.6.1",
     "react-intersection-observer": "^9.13.1",
     "react-notion-x": "^7.0.1",
-    "react-pdf": "^9.1.1",
+    "react-pdf": "^8.0.2",
     "react-phone-number-input": "^3.4.9",
     "react-textarea-autosize": "^8.5.4",
     "react-zoom-pan-pinch": "^3.6.1",
